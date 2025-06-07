@@ -16,3 +16,5 @@ A modern, AI-powered book recommendation engine that goes **basic book search** 
 - **Emotion-Aware Recommendations:** Assigns and filters books by emotional tone (joy, sadness, suspense, etc.) - enabling mood-based discovery
 - **Category Filtering:** Classifies books by genre for targeted exploration
 - **Interactive Dashboard:** User-friendly Gradio interface for live recommendations, complete with book covers and concise previews
+
+Inspired from freeCodeCamp.org!
